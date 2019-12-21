@@ -28,6 +28,5 @@ D:\GitProjects\TestSrc\TestSrc\bin\System.Web.Webpages.Deployment.xml
 D:\GitProjects\TestSrc\TestSrc\bin\System.Web.Webpages.Razor.xml
 D:\GitProjects\TestSrc\TestSrc\bin\System.Web.Helpers.xml
 D:\GitProjects\TestSrc\TestSrc\bin\System.Web.Mvc.xml
-D:\GitProjects\TestSrc\TestSrc\obj\Debug\TestSrc.csprojResolveAssemblyReference.cache
 D:\GitProjects\TestSrc\TestSrc\obj\Debug\TestSrc.dll
 D:\GitProjects\TestSrc\TestSrc\obj\Debug\TestSrc.pdb
